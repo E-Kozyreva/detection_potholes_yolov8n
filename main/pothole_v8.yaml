@@ -1,0 +1,7 @@
+path: \detection potholes\main\dataset\pothole_dataset_v8
+train: 'train/images'
+val: 'valid/images'
+ 
+# class names
+names: 
+  0: 'pothole'
